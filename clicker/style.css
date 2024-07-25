@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: rgb(59, 191, 224);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#bb{
+    height: 40%;
+    width: 60%;
+    background-color: rgb(135, 135, 249);
+    font-size:32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    border-radius: 30px;
+    display: none;
+}
+#b{
+    background-color: rgb(0, 255, 195);
+    height:35px;
+    width:100px;
+    font-size:20px;
+}
